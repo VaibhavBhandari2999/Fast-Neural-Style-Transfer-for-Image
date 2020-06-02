@@ -16,6 +16,7 @@ Neural style transfer uses a pretrained convolution neural network. Then to defi
 <h3>Output got-></h3>
 <br>
 ![Original](https://user-images.githubusercontent.com/30387574/83508797-129f0200-a4e8-11ea-8439-3f9ae1447569.jpg)
+
 <h1>+</h1>
 ![la_muse](https://user-images.githubusercontent.com/30387574/83508933-437f3700-a4e8-11ea-9111-47e6ef79aa99.jpg)
 <h1>=</h1>
