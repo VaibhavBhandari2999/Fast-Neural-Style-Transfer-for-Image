@@ -14,9 +14,9 @@ Neural style transfer uses a pretrained convolution neural network. Then to defi
 <br>
 
 The different pre trained models provided by Stanford are:<br>
-*Candy.t7
-*la_muse.t7
-*mosiac.t7
+- Candy.t7
+- la_muse.t7
+- mosiac.t7
 *feathers.t7
 *the_scream.t7
 *udnie.t7
