@@ -12,12 +12,4 @@ Neural style transfer uses a pretrained convolution neural network. Then to defi
  <br>
  ![image](https://user-images.githubusercontent.com/30387574/83508707-f0a57f80-a4e7-11ea-9792-ce1eabee5d84.png)
 <br>
-<br>
-<h3>Output got-></h3>
-<br>
-![Original](https://user-images.githubusercontent.com/30387574/83509521-31ea5f00-a4e9-11ea-8da9-5f0d88fced9d.jpg)
-
-<h1>+</h1>
-
-<h1>=</h1>
 
