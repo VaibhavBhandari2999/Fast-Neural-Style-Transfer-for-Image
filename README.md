@@ -13,3 +13,6 @@ Neural style transfer uses a pretrained convolution neural network. Then to defi
  ![image](https://user-images.githubusercontent.com/30387574/83508707-f0a57f80-a4e7-11ea-9792-ce1eabee5d84.png)
 <br>
 
+The different pre trained models provided by Stanford are:
+<ui>Candy
+
